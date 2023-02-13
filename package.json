@@ -1,0 +1,11 @@
+{
+  "name": "flight-booking-angular",
+  "version": "0.0.0",
+  "description": "Angular Capstone Project Flight Booking @ https://lex.infosysapps.com/web/en/viewer/web-module/lex_auth_0126441891119104002056?collectionId=lex_20858515543254600000&collectionType=Course&pathId=lex_auth_012539637335015424805",
+  "readme": "https://lex.infosysapps.com/web/en/viewer/web-module/lex_auth_0126441891119104002056?collectionId=lex_20858515543254600000&collectionType=Course&pathId=lex_auth_012539637335015424805",
+  "scripts": {
+    "test": "echo \"bruh\"",
+    "frontend": "cd FB_UI && ng serve",
+    "backend": "cd FB_UI && npm run server"
+  }
+}
